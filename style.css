@@ -145,11 +145,10 @@ a.active {
 #confirmation-area {
   display: none;
   position: relative;
-  height : 600px;
-  background-color:  #f3f5ff;
-
+  height: 600px;
+  background-color: #f3f5ff;
 }
-#confirm-card{
+#confirm-card {
   background-color: #e8ebf8;
   height: 280px;
   width: 35%;
@@ -162,10 +161,10 @@ a.active {
   text-align: center;
   font-family: "Bebas Neue", cursive;
 }
-#confirm-card:hover{
+#confirm-card:hover {
   box-shadow: 0 0 10px gray;
 }
-#delete-btn{
+#delete-btn {
   background-color: rgb(255, 10, 10);
   border: none;
   width: 25px;
@@ -177,13 +176,13 @@ a.active {
   right: 7%;
   color: white;
 }
-#delete-btn:hover{
+#delete-btn:hover {
   box-shadow: 0 0 5px gray;
 }
-#confirmation-text{
+#confirmation-text {
   color: #52af3a;
 }
-#confirm-btn{
+#confirm-btn {
   background-color: #52af3a;
   border: none;
   height: 30px;
@@ -192,6 +191,6 @@ a.active {
   border-radius: 5px;
   color: white;
 }
-#confirm-btn:hover{
+#confirm-btn:hover {
   box-shadow: 0 0 5px gray;
 }
